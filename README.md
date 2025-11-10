@@ -196,7 +196,9 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 
 - **GMAIL**: sumitprjpt7200@gmail.com
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/sumitprjpt)
+- **LinkedIn**: https://www.linkedin.com/in/prjptsumit/
+  
+
 
 
 
